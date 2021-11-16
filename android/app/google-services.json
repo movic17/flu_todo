@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "157732451596",
+    "project_id": "flu-todo",
+    "storage_bucket": "flu-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157732451596:android:3febb7cb952ac505e5c529",
+        "android_client_info": {
+          "package_name": "com.example.flu_todo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157732451596-ph5g6v81g8sapl9i5fh9fs283lh3kbus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMQhIW-sGjLk30y10wWqql-k26u4kC3JE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157732451596-ph5g6v81g8sapl9i5fh9fs283lh3kbus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
